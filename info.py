@@ -15,11 +15,11 @@ from sklearn.metrics import classification_report
 
 
 # @st.experimental_memo
-@st.cache_data
-def get_img_as_base64(file):
-    with open(file, "rb") as f:
-        data = f.read()
-    return base64.b64encode(data).decode()
+# @st.cache_data
+# def get_img_as_base64(file):
+#     with open(file, "rb") as f:
+#         data = f.read()
+#     return base64.b64encode(data).decode()
 
 
 # img = get_img_as_base64("image.jpg")
