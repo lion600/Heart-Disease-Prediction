@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 # from predict import predict
-from streamlit_extras.switch_page_button import switch_page 
+# from streamlit_extras.switch_page_button import switch_page 
 from sklearn.preprocessing import StandardScaler
 import pickle
 from sklearn.metrics import accuracy_score
