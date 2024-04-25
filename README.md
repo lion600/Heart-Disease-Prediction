@@ -53,6 +53,8 @@ Welcome to the Heart Disease Prediction Model! This model is designed to predict
 ---
 
 ![alt text](https://github.com/lion600/Heart-Disease-Prediction/blob/main/hd1.png)
+![alt text](https://github.com/lion600/Heart-Disease-Prediction/blob/main/hd2.png)
+![alt text](https://github.com/lion600/Heart-Disease-Prediction/blob/main/hd3.png)
 
 
 
